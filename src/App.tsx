@@ -11,7 +11,7 @@ const dummyBooks: BookToRead[] = [
   },
   {
     id: 2,
-    title: "React Hooks入門",
+    title: "React Hooks本格入門",
     authors: "ダミー",
     memo: ""
   },
